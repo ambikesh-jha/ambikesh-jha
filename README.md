@@ -1,4 +1,4 @@
-![loga](https://github.com/ambikesh-jha/ambikesh-jha/blob/main/IntroBanner.png)
+![loga](https://github.com/ambikesh-jha/ambikesh-jha/blob/main/IntroBanner%20(1).png)
 <h1 align="center">Hi 👋, I'm Ambikesh Jha</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
