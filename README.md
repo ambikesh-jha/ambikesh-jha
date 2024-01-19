@@ -20,10 +20,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
+# 📊 GitHub Stats:
+<p><img align="center" alt="GitHub Stats" width="455" src="https://github-readme-stats.vercel.app/api?username=ambikesh-jha&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></p>
+<p><img align="center" alt="GitHub Streak" width="455" src="https://github-readme-streak-stats.herokuapp.com/?user=ambikesh-jha&theme=dark&hide_border=false" /></p>
+<p><img align="center" alt="Top Languages" width="455" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambikesh-jha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
 
-<p><img align="center" alt="coding" width="450" src="https://github-readme-stats.vercel.app/api?username=ambikesh-jha&show_icons=true&locale=en" alt="ambikesh-jha" /></p>
-<p><img align="center" alt="coding" width="455" src="https://github-readme-streak-stats.herokuapp.com/?user=ambikesh-jha&" alt="ambikesh-jha" /></p>
-
+### ✍️ Random Dev Quote
+<p><img align="center" alt="Quotes" width="600" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide" /></p>
 
 
 
