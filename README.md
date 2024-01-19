@@ -1,13 +1,12 @@
 ![loga](https://github.com/ambikesh-jha/ambikesh-jha/blob/main/IntroBanner%20(1).png)
-<h1 align="center">Hi 👋, I'm Ambikesh Jha</h1>
+<h1 align="center"><b>Hi 👋, I'm Ambikesh Jha</b></h1>
 
-<img align="right" alt="coding"  width="400" hight ="450" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
-
+<img align="right" alt="coding"  width="400" hight ="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  />
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=ambikesh-jha&label=Profile%20views&color=0e75b6&style=flat" alt="ambikesh-jha" /> </p>
 
-- 👨‍💻 All my projects : <br>https://github.com/ambikesh-jha </br>
+- 👨‍💻 All my projects :  https://github.com/ambikesh-jha
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
