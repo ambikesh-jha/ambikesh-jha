@@ -1,7 +1,7 @@
 ![loga](https://github.com/ambikesh-jha/ambikesh-jha/blob/main/IntroBanner%20(1).png)
 <h1 align="center"><b>Hi 👋, I'm Ambikesh Jha</b></h1>
 
-<img align='right'  width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align='right'  width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=ambikesh-jha&label=Profile%20views&color=0e75b6&style=flat" alt="ambikesh-jha" /> </p>
