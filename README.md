@@ -26,20 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  /> 
   <img />
 </div>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 # 📊 GitHub Stats:
 <p><img align="center" alt="GitHub Stats" width="455" src="https://github-readme-stats.vercel.app/api?username=ambikesh-jha&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></p>
@@ -48,6 +34,12 @@
 
 ### ✍️ Random Dev Quote
 <p><img align="center" alt="Quotes" width="600" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 
 
