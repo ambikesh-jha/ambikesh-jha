@@ -20,7 +20,10 @@
   <img height = "40" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" " />
   <img />
   <img alt="CSS3"  height = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" " />
-  <img /><br>
+  <img />
+  <img alt="CSS3"  height = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" " />
+  <img />
+  <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="40"/>
   <img />
   <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
