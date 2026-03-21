@@ -25,22 +25,34 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 ## Connect
 
 <div align="center">
-
-<a href="https://mail.google.com/mail/?view=cm&to=jhaambikesh8@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" alt="Gmail"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ambikesh-jha/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/ambikesh-jha" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" alt="Github"/>
-</a>
-<a href="https://ambikesh-jha.github.io/My_Portfolio/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/48/ffffff/user-male-circle.png" width="40" height="40" alt="Portfolio"/>
-</a>
-
+<table border="0" cellspacing="0" cellpadding="14">
+  <tr>
+    <td align="center">
+      <a href="https://mail.google.com/mail/?view=cm&to=jhaambikesh8@gmail.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" alt="Gmail"/>
+      </a><br/>
+      <sub><b>Gmail</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ambikesh-jha/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" alt="LinkedIn"/>
+      </a><br/>
+      <sub><b>LinkedIn</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ambikesh-jha" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" alt="GitHub"/>
+      </a><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center">
+      <a href="https://ambikesh-jha.github.io/My_Portfolio/" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/48/ffffff/user-male-circle.png" width="40" height="40" alt="Portfolio"/>
+      </a><br/>
+      <sub><b>Portfolio</b></sub>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
