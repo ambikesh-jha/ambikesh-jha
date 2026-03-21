@@ -74,10 +74,6 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
       <sub><b>LangChain</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/microsoft-azure.png" width="48" height="48" alt="Azure AI"/><br/>
-      <sub><b>Azure AI</b></sub>
-    </td>
-    <td align="center" width="110">
       <img src="https://img.icons8.com/color/48/database.png" width="48" height="48" alt="RAG Systems"/><br/>
       <sub><b>RAG Systems</b></sub>
     </td>
@@ -214,12 +210,11 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 </div>
 
 ---
-
-## Certifications
+## Certifications &nbsp;<a href="https://ambikesh-jha.github.io/My_Portfolio/certificates.html" target="_blank"><img src="https://img.shields.io/badge/View%20All-58a6ff?style=flat-square&logo=external-link&logoColor=white" alt="View All Certifications"/></a>
 
 <div align="center">
 
-| Certification | Issuer |
+| Certification &nbsp;<a href="https://ambikesh-jha.github.io/My_Portfolio/certificates.html" target="_blank"><img src="https://img.shields.io/badge/View%20All-58a6ff?style=flat-square&logo=external-link&logoColor=white"/></a> | Issuer |
 |:---|:---|
 | **Azure AI Engineer AI-102** | Microsoft |
 | LLM in Artificial Intelligence | Netsmartz |
