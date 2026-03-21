@@ -27,15 +27,15 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 <div align="center">
 
 <a href="https://mail.google.com/mail/?view=cm&to=ambikeshjha98@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-ambikeshjha98@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" alt="Gmail"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ambikesh-jha/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-ambikesh--jha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" alt="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://ambikesh-jha.github.io/My_Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-58a6ff?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" alt="Portfolio"/>
 </a>
 
 </div>
