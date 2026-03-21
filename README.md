@@ -18,7 +18,7 @@
 
 ## About Me
 
-AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend systems. Currently building enterprise-grade medical data platforms at Netsmartz. Microsoft Azure AI-102 Certified. Former ISRO Apprentice — applied ML to satellite imagery and geospatial data.
+AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend systems. Currently building enterprise-grade medical data platforms at Netsmartz. Microsoft Azure AI-102 Certified. Former ISRO Apprentice : applied ML to satellite imagery and geospatial data.
 
 ---
 
@@ -34,8 +34,11 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
   <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
+<a href="https://github.com/ambikesh-jha" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" alt="Github"/>
+</a>
 <a href="https://ambikesh-jha.github.io/My_Portfolio/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" height="40" alt="Portfolio"/>
+  <img src="https://img.icons8.com/ios-filled/48/ffffff/user-male-circle.png" width="40" height="40" alt="Portfolio"/>
 </a>
 
 </div>
