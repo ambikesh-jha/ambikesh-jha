@@ -46,46 +46,171 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 
 ### AI / ML
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/RAG_Systems-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge&logo=meta&logoColor=white"/>
+<div>
+<table border="0" cellspacing="0" cellpadding="14">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow"/><br/>
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch"/><br/>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="Scikit-learn"/><br/>
+      <sub><b>Scikit-learn</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/brain.png" width="48" height="48" alt="Machine Learning"/><br/>
+      <sub><b>Machine Learning</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="48" height="48" alt="LangChain"/><br/>
+      <sub><b>LangChain</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/microsoft-azure.png" width="48" height="48" alt="Azure AI"/><br/>
+      <sub><b>Azure AI</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/database.png" width="48" height="48" alt="RAG Systems"/><br/>
+      <sub><b>RAG Systems</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="48" height="48" alt="EDA"/><br/>
+      <sub><b>Exploratory DA</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/chatgpt.png" width="48" height="48" alt="Prompt Engineering"/><br/>
+      <sub><b>Prompt Eng.</b></sub>
+    </td>
+  </tr>
+</table>
 </div>
 
-### Backend & Databases
+### Backend & APIs
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mongodb,mysql,redis,sqlite,neo4j&theme=dark" />
+<div>
+<table border="0" cellspacing="0" cellpadding="14">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI"/><br/>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="48" height="48" alt="Flask"/><br/>
+      <sub><b>Flask</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="48" height="48" alt="Redis"/><br/>
+      <sub><b>Redis</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite"/><br/>
+      <sub><b>SQLite</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=neo4j&theme=dark" width="48" height="48" alt="Neo4j"/><br/>
+      <sub><b>Neo4j</b></sub>
+    </td>
+  </tr>
+</table>
 </div>
 
 ### Dev Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark" />
+<div>
+<table border="0" cellspacing="0" cellpadding="14">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman"/><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
 </div>
 
 ### Frontend
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
+<div>
+<table border="0" cellspacing="0" cellpadding="14">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS3"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap"/><br/>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+  </tr>
+</table>
 </div>
 
 ### Languages
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c&theme=dark" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<div>
+<table border="0" cellspacing="0" cellpadding="14">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"/><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C"/><br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/48/sql.png" width="48" height="48" alt="SQL"/><br/>
+      <sub><b>SQL</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -97,12 +222,12 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 | Certification | Issuer |
 |:---|:---|
 | **Azure AI Engineer AI-102** | Microsoft |
-| LLM in Artificial Intelligence | Netsmarz |
-| Generative AI | Netsmarz |
+| LLM in Artificial Intelligence | Netsmartz |
+| Generative AI | Netsmartz |
 | Machine Learning | Infosys |
 | Data Science | Infosys |
-| GitHub Copilot Fundamentals | Netsmarz |
-| Server Deployment   | Netsmarz |
+| GitHub Copilot Fundamentals | Netsmartz |
+| Server Deployment | Netsmartz |
 
 </div>
 
@@ -120,24 +245,16 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 
 *"Building intelligent systems that transform complex problems into scalable, production-ready solutions."*
 
-### Random Dev Quote
-<p><img align="center" alt="Quotes" width="600" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&hide" /></p>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)"srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
+
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
-
-
-
-
-
-
-
-
