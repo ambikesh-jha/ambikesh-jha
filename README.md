@@ -26,7 +26,7 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 
 <div align="center">
 
-<a href="https://mail.google.com/mail/?view=cm&to=ambikeshjha98@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&to=jhaambikesh8@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" height="40" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;
