@@ -127,7 +127,7 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
       <sub><b>SQLite</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=neo4j&theme=dark" width="48" height="48" alt="Neo4j"/><br/>
+      <img src="https://cdn.simpleicons.org/neo4j/008CC1" width="48" height="48" alt="Neo4j"/><br/>
       <sub><b>Neo4j</b></sub>
     </td>
   </tr>
