@@ -243,14 +243,6 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ambikesh-jha&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
 <div align="center">
 
 *"Building intelligent systems that transform complex problems into scalable, production-ready solutions."*
