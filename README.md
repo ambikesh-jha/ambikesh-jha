@@ -46,7 +46,7 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
       <sub><b>GitHub</b></sub>
     </td>
     <td align="center">
-      <a href="https://ambikesh-jha.github.io/My_Portfolio/" target="_blank">
+      <a href="https://ambikesh-jha.vercel.app/" target="_blank">
         <img src="https://img.icons8.com/ios-filled/48/ffffff/user-male-circle.png" width="40" height="40" alt="Portfolio"/>
       </a><br/>
       <sub><b>Portfolio</b></sub>
