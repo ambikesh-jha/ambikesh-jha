@@ -56,6 +56,23 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 </div>
 
 ---
+## Certifications &nbsp;<a href="https://ambikesh-jha.github.io/My_Portfolio/certificates.html" target="_blank"><img src="https://img.shields.io/badge/View%20All-58a6ff?style=flat-square&logo=external-link&logoColor=white" alt="View All Certifications"/></a>
+
+<div align="center">
+
+| Certification &nbsp;<a href="https://ambikesh-jha.github.io/My_Portfolio/certificates.html" target="_blank"><img src="https://img.shields.io/badge/View%20All-58a6ff?style=flat-square&logo=external-link&logoColor=white"/></a> | Issuer |
+|:---|:---|
+| **Azure AI Engineer AI-102** | Microsoft |
+| LLM in Artificial Intelligence | Netsmartz |
+| Generative AI | Netsmartz |
+| Machine Learning | Infosys |
+| Data Science | Infosys |
+| GitHub Copilot Fundamentals | Netsmartz |
+| Server Deployment | Netsmartz |
+
+</div>
+
+---
 
 ## Tech Stack
 
@@ -83,6 +100,14 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
     <td align="center" width="110">
       <img src="https://img.icons8.com/color/48/database.png" width="48" height="48" alt="RAG Systems"/><br/>
       <sub><b>RAG Systems</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://www.pinecone.io/images/pinecone-logo.svg" width="48" height="48" alt="Pinecone"/><br/>
+      <sub><b>Pinecone</b></sub>
+    </td>
+    <td align="center" width="110">
+        <img src="https://cdn.simpleicons.org/milvus/00A1EA" width="48" height="48" alt="Milvus"/>
+        <sub><b>Milvus</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="48" height="48" alt="EDA"/><br/>
@@ -215,25 +240,6 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
   </tr>
 </table>
 </div>
-
----
-## Certifications &nbsp;<a href="https://ambikesh-jha.github.io/My_Portfolio/certificates.html" target="_blank"><img src="https://img.shields.io/badge/View%20All-58a6ff?style=flat-square&logo=external-link&logoColor=white" alt="View All Certifications"/></a>
-
-<div align="center">
-
-| Certification &nbsp;<a href="https://ambikesh-jha.github.io/My_Portfolio/certificates.html" target="_blank"><img src="https://img.shields.io/badge/View%20All-58a6ff?style=flat-square&logo=external-link&logoColor=white"/></a> | Issuer |
-|:---|:---|
-| **Azure AI Engineer AI-102** | Microsoft |
-| LLM in Artificial Intelligence | Netsmartz |
-| Generative AI | Netsmartz |
-| Machine Learning | Infosys |
-| Data Science | Infosys |
-| GitHub Copilot Fundamentals | Netsmartz |
-| Server Deployment | Netsmartz |
-
-</div>
-
----
 
 <div align="center">
 
