@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:1a1a2e,100:16213e&height=200&section=header&text=Ambikesh%20Jha&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Associate%20Software%20Engineer%20%E2%80%93%20AI&descAlignY=60&descSize=18&descColor=8b949e&animation=twinkling" width="100%"/>
+<h1>Ambikesh Jha</h1>
+<h3>Associate Software Engineer – AI</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Agentic+AI+%7C+LLM+Orchestration;RAG+Systems+%7C+Multi-Agent+Architectures;Backend+Engineering+%7C+AI+Pipelines;Microsoft+Azure+AI-102+Certified" alt="Typing SVG" />
@@ -11,23 +12,24 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/ambikesh-jha?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers"/>
 
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%"/>
+<hr/>
 
-<h3 align="center">⟡ &nbsp;About Me&nbsp; ⟡</h3>
+<h3>⟡ &nbsp;About Me&nbsp; ⟡</h3>
 
-<p align="center">
+<p>
 AI Engineer specialising in <b>Agentic AI</b>, <b>LLM orchestration</b>, and <b>scalable backend systems</b>.<br/>
 Currently building enterprise-grade medical data platforms at <b>Netsmartz</b>.<br/>
-Microsoft Azure AI-102 Certified. Former ISRO Apprentice: applied ML to satellite imagery and geospatial data.
+ <b>Microsoft Azure AI-102 Certified </b>. Former  <b>ISRO Apprentice </b>: applied ML to satellite imagery and geospatial data.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%"/>
+<hr/>
 
-<h3 align="center">⟡ &nbsp;Connect&nbsp; ⟡</h3>
+<h3>⟡ &nbsp;Connect&nbsp; ⟡</h3>
 
-<div align="center">
+<div>
 <table border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td align="center">
@@ -58,11 +60,11 @@ Microsoft Azure AI-102 Certified. Former ISRO Apprentice: applied ML to satellit
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%"/>
+<hr/>
 
-<h3 align="center">⟡ &nbsp;Certifications&nbsp; ⟡</h3>
+<h3>⟡ &nbsp;Certifications&nbsp; ⟡</h3>
 
-<div align="center">
+<div>
 
 <a href="https://ambikesh-jha.vercel.app/certificates.html" target="_blank"><img src="https://img.shields.io/badge/View%20All%20Certifications-58a6ff?style=for-the-badge&logo=external-link&logoColor=white" alt="View All Certifications"/></a>
 
@@ -78,13 +80,13 @@ Microsoft Azure AI-102 Certified. Former ISRO Apprentice: applied ML to satellit
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%"/>
+<hr/>
 
-<h3 align="center">⟡ &nbsp;Tech Stack&nbsp; ⟡</h3>
+<h3>⟡ &nbsp;Tech Stack&nbsp; ⟡</h3>
 
-<h4 align="center">AI / ML</h4>
+<h4>AI / ML</h4>
 
-<div align="center">
+<div>
 <table border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td align="center" width="110">
@@ -108,11 +110,11 @@ Microsoft Azure AI-102 Certified. Former ISRO Apprentice: applied ML to satellit
       <sub><b>RAG Systems</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://www.pinecone.io/images/pinecone-logo.svg" width="48" height="48" alt="Pinecone"/><br/>
+      <img src="https://img.icons8.com/color/48/data-configuration.png" width="48" height="48" alt="Pinecone"/><br/>
       <sub><b>Pinecone</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.simpleicons.org/milvus/00A1EA" width="48" height="48" alt="Milvus"/><br/>
+      <img src="https://img.icons8.com/color/48/data-backup.png" width="48" height="48" alt="Milvus"/><br/>
       <sub><b>Milvus</b></sub>
     </td>
     <td align="center" width="110">
@@ -127,9 +129,9 @@ Microsoft Azure AI-102 Certified. Former ISRO Apprentice: applied ML to satellit
 </table>
 </div>
 
-<h4 align="center">Backend &amp; APIs</h4>
+<h4>Backend &amp; APIs</h4>
 
-<div align="center">
+<div>
 <table border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td align="center" width="110">
@@ -168,9 +170,9 @@ Microsoft Azure AI-102 Certified. Former ISRO Apprentice: applied ML to satellit
 </table>
 </div>
 
-<h4 align="center">Dev Tools</h4>
+<h4>Dev Tools</h4>
 
-<div align="center">
+<div>
 <table border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td align="center" width="110">
@@ -193,9 +195,9 @@ Microsoft Azure AI-102 Certified. Former ISRO Apprentice: applied ML to satellit
 </table>
 </div>
 
-<h4 align="center">Frontend</h4>
+<h4>Frontend</h4>
 
-<div align="center">
+<div>
 <table border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td align="center" width="110">
@@ -218,9 +220,9 @@ Microsoft Azure AI-102 Certified. Former ISRO Apprentice: applied ML to satellit
 </table>
 </div>
 
-<h4 align="center">Languages</h4>
+<h4>Languages</h4>
 
-<div align="center">
+<div>
 <table border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td align="center" width="110">
@@ -247,7 +249,7 @@ Microsoft Azure AI-102 Certified. Former ISRO Apprentice: applied ML to satellit
 </table>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%"/>
+<hr/>
 
 <div align="center">
 
@@ -258,7 +260,8 @@ Microsoft Azure AI-102 Certified. Former ISRO Apprentice: applied ML to satellit
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
-
 </div>
 
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:16213e,60:1a1a2e,100:0d1117&height=90&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=8b949e&fontAlignY=62&animation=twinkling" width="100%"/>
+
