@@ -56,7 +56,7 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 </div>
 
 ---
-## Certifications &nbsp;<a href="https://ambikesh-jha.github.io/My_Portfolio/certificates.html" target="_blank"><img src="https://img.shields.io/badge/View%20All-58a6ff?style=flat-square&logo=external-link&logoColor=white" alt="View All Certifications"/></a>
+## Certifications &nbsp;<a href="[https://ambikesh-jha.github.io/My_Portfolio/certificates.html](https://ambikesh-jha.vercel.app/certificates.html)" target="_blank"><img src="https://img.shields.io/badge/View%20All-58a6ff?style=flat-square&logo=external-link&logoColor=white" alt="View All Certifications"/></a>
 
 <div align="center">
 
