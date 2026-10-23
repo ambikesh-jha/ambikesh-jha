@@ -68,18 +68,6 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
       <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/><br/>
       <sub><b>Python</b></sub>
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48" alt="TensorFlow"/><br/>
-      <sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48" alt="PyTorch"/><br/>
-      <sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48" alt="Scikit-learn"/><br/>
-      <sub><b>Scikit-learn</b></sub>
-    </td>
     <td align="center" width="110">
       <img src="https://img.icons8.com/color/48/brain.png" width="48" height="48" alt="Machine Learning"/><br/>
       <sub><b>Machine Learning</b></sub>
@@ -87,6 +75,10 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
     <td align="center" width="110">
       <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="48" height="48" alt="LangChain"/><br/>
       <sub><b>LangChain</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph.png" width="48" height="48" alt="LangGraph"/><br/>
+      <sub><b>LangGraph</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://img.icons8.com/color/48/database.png" width="48" height="48" alt="RAG Systems"/><br/>
