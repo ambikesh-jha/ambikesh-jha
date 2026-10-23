@@ -1,31 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ambikesh%20Jha&fontSize=52&fontColor=58a6ff&fontAlignY=38&desc=Associate%20Software%20Engineer%20%E2%80%93%20AI%20%7C%20Building%20Intelligent%20Systems&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:1a1a2e,100:16213e&height=200&section=header&text=Ambikesh%20Jha&fontSize=50&fontColor=58a6ff&fontAlignY=38&desc=Associate%20Software%20Engineer%20%E2%80%93%20AI&descAlignY=60&descSize=18&descColor=8b949e&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Agentic+AI+%7C+LLM+Orchestration;RAG+Systems+%7C+Multi-Agent+Architectures;Backend+Engineering+%7C+AI+Pipelines;Microsoft+Azure+AI-102+Certified" alt="Typing SVG" />
 </a>
 
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=ambikesh-jha&label=Profile+Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
 <img src="https://img.shields.io/github/followers/ambikesh-jha?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117" alt="Followers"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%"/>
 
-## About Me
+<h3 align="center">⟡ &nbsp;About Me&nbsp; ⟡</h3>
 
-AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend systems. Currently building enterprise-grade medical data platforms at Netsmartz. Microsoft Azure AI-102 Certified. Former ISRO Apprentice : applied ML to satellite imagery and geospatial data.
+<p align="center">
+AI Engineer specialising in <b>Agentic AI</b>, <b>LLM orchestration</b>, and <b>scalable backend systems</b>.<br/>
+Currently building enterprise-grade medical data platforms at <b>Netsmartz</b>.<br/>
+Microsoft Azure AI-102 Certified. Former ISRO Apprentice: applied ML to satellite imagery and geospatial data.
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%"/>
 
-## Connect
+<h3 align="center">⟡ &nbsp;Connect&nbsp; ⟡</h3>
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="14">
+<table border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td align="center">
       <a href="https://mail.google.com/mail/?view=cm&to=jhaambikesh8@gmail.com" target="_blank">
@@ -55,12 +58,15 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 </table>
 </div>
 
----
-## Certifications &nbsp;<a href="https://ambikesh-jha.vercel.app/certificates.html" target="_blank"><img src="https://img.shields.io/badge/View%20All-58a6ff?style=flat-square&logo=external-link&logoColor=white" alt="View All Certifications"/></a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%"/>
+
+<h3 align="center">⟡ &nbsp;Certifications&nbsp; ⟡</h3>
 
 <div align="center">
 
-| Certification &nbsp;<a href="https://ambikesh-jha.vercel.app/certificates.html" target="_blank"><img src="https://img.shields.io/badge/View%20All-58a6ff?style=flat-square&logo=external-link&logoColor=white"/></a> | Issuer |
+<a href="https://ambikesh-jha.vercel.app/certificates.html" target="_blank"><img src="https://img.shields.io/badge/View%20All%20Certifications-58a6ff?style=for-the-badge&logo=external-link&logoColor=white" alt="View All Certifications"/></a>
+
+| Certification | Issuer |
 |:---|:---|
 | **Azure AI Engineer AI-102** | Microsoft |
 | LLM in Artificial Intelligence | Netsmartz |
@@ -72,14 +78,14 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%"/>
 
-## Tech Stack
+<h3 align="center">⟡ &nbsp;Tech Stack&nbsp; ⟡</h3>
 
-### AI / ML
+<h4 align="center">AI / ML</h4>
 
-<div>
-<table border="0" cellspacing="0" cellpadding="14">
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/><br/>
@@ -106,8 +112,8 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
       <sub><b>Pinecone</b></sub>
     </td>
     <td align="center" width="110">
-        <img src="https://cdn.simpleicons.org/milvus/00A1EA" width="48" height="48" alt="Milvus"/>
-        <sub><b>Milvus</b></sub>
+      <img src="https://cdn.simpleicons.org/milvus/00A1EA" width="48" height="48" alt="Milvus"/><br/>
+      <sub><b>Milvus</b></sub>
     </td>
     <td align="center" width="110">
       <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="48" height="48" alt="EDA"/><br/>
@@ -121,10 +127,10 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 </table>
 </div>
 
-### Backend & APIs
+<h4 align="center">Backend &amp; APIs</h4>
 
-<div>
-<table border="0" cellspacing="0" cellpadding="14">
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48" alt="FastAPI"/><br/>
@@ -162,10 +168,10 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 </table>
 </div>
 
-### Dev Tools
+<h4 align="center">Dev Tools</h4>
 
-<div>
-<table border="0" cellspacing="0" cellpadding="14">
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/><br/>
@@ -187,10 +193,10 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 </table>
 </div>
 
-### Frontend
+<h4 align="center">Frontend</h4>
 
-<div>
-<table border="0" cellspacing="0" cellpadding="14">
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML5"/><br/>
@@ -212,10 +218,10 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 </table>
 </div>
 
-### Languages
+<h4 align="center">Languages</h4>
 
-<div>
-<table border="0" cellspacing="0" cellpadding="14">
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="4">
   <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python"/><br/>
@@ -241,11 +247,11 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
 </table>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:58a6ff,100:0d1117&height=2&section=header" width="100%"/>
+
 <div align="center">
 
 *"Building intelligent systems that transform complex problems into scalable, production-ready solutions."*
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -253,8 +259,6 @@ AI Engineer specialising in Agentic AI, LLM orchestration, and scalable backend 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:16213e,60:1a1a2e,100:0d1117&height=90&section=footer&text=Thanks%20for%20visiting&fontSize=22&fontColor=8b949e&fontAlignY=62&animation=twinkling" width="100%"/>
