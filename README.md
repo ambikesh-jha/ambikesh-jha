@@ -71,6 +71,7 @@ Currently building enterprise-grade medical data platforms at <b>Netsmartz</b>.<
 | Certification | Issuer |
 |:---|:---|
 | **Azure AI Engineer AI-102** | Microsoft |
+| Agentic Track AI | Udemy |
 | LLM in Artificial Intelligence | Netsmartz |
 | Generative AI | Netsmartz |
 | Machine Learning | Infosys |
