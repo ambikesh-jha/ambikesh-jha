@@ -108,13 +108,12 @@ Currently building enterprise-grade medical data platforms at <b>Netsmartz</b>.<
     <td align="center" width="110">
       <img src="https://img.icons8.com/color/48/database.png" width="48" height="48" alt="RAG Systems"/><br/>
       <sub><b>RAG Systems</b></sub>
-    </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/data-configuration.png" width="48" height="48" alt="Pinecone"/><br/>
+      <img src="https://www.pinecone.io/images/pinecone-logo.svg" width="48" height="48" alt="Pinecone"/><br/>
       <sub><b>Pinecone</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://img.icons8.com/color/48/data-backup.png" width="48" height="48" alt="Milvus"/><br/>
+      <img src="https://cdn.simpleicons.org/milvus/00A1EA" width="48" height="48" alt="Milvus"/><br/>
       <sub><b>Milvus</b></sub>
     </td>
     <td align="center" width="110">
